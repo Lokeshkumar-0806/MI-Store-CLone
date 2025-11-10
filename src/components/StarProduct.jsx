@@ -1,5 +1,5 @@
 import React from 'react'
-import "../styles/StarProduct.css"
+import "../styles/starProduct.css"
 
 const StarProduct = ({starProduct}) => {
   return (

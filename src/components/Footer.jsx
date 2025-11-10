@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/footer.css";
-import "../styles/Footer1.css"
+import "../styles/footer1.css"
 
 const repeatIcon = (
   <svg

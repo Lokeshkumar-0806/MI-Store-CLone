@@ -1,5 +1,5 @@
 import React from 'react'
-import VideoCard from './VideoCard'
+import VideoCard from './videoCard'
 import "../styles/Video.css"
 
 const Videos = ({videos}) => {

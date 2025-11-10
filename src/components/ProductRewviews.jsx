@@ -1,5 +1,5 @@
 import React from 'react'
-import ProductRieviewCard from './ProductRieviewCard'
+import ProductRieviewCard from './productRieviewCard'
 import "../styles/ProductRewviews.css"
 
 const ProductRewviews = ({productReviews}) => {
