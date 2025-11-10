@@ -1,7 +1,7 @@
 import React from 'react'
 import Offer from './Offer'
 
-import "../styles/Offers.css"
+import "../styles/offers.css"
 
 
 
