@@ -1,6 +1,6 @@
 import React from 'react'
 import ProductRieviewCard from './productRieviewCard'
-import "../styles/ProductRewviews.css"
+import "../styles/productRewviews.css"
 
 const ProductRewviews = ({productReviews}) => {
   return (
